@@ -13,17 +13,17 @@ The system environment requirement is in requirements.txt
 (You might need to change "python3" to "python", depending on your system)
 In the same directory as this readme is in, use the following commands to run the experiments for Poisson equation:
 
-`python3 Poisson\train_1Dis_CGD.py` for the CGD training (CPINN)
+`python3 Poisson/train_1Dis_CGD.py` for the CGD training (CPINN)
 
-`python3 Poisson\train_1Dis_ExtraAdam.py`for the ExtraAdam training (CPINN)
+`python3 Poisson/train_1Dis_ExtraAdam.py`for the ExtraAdam training (CPINN)
 
-`python3 Poisson\train_1Dis_ExtraSGD.py`for the ExtraSGD training (CPINN)
+`python3 Poisson/train_1Dis_ExtraSGD.py`for the ExtraSGD training (CPINN)
 
-`python3 Poisson\train_1Dis_GACGD.py`for the GMRES-based ACGD training (CPINN)
+`python3 Poisson/train_1Dis_GACGD.py`for the GMRES-based ACGD training (CPINN)
 
-`python3 Poisson\train_Adam.py -rng 12`for the Adam training (PINN)
+`python3 Poisson/train_Adam.py -rng 12`for the Adam training (PINN)
 
-`python3 Poisson\train_SGD.py`for the SGD training (PINN)
+`python3 Poisson/train_SGD.py`for the SGD training (PINN)
 
 
 use the following commands to run the experiments for the Schrodinger's equation:

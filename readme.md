@@ -25,6 +25,10 @@ In the same directory as this readme is in, use the following commands to run th
 
 `python3 Poisson/train_SGD.py`for the SGD training (PINN)
 
+`python3 WAN/train_WAN_copy_comb_activation_Adam_resample_no_log.py` for the WAN training with Adam/AdaGrad (WAN)
+
+`python3 WAN/train_WAN_2D_Poisson_comb_activation_algo1_no_log.py` for the WAN training with ACGD (WAN)
+
 
 use the following commands to run the experiments for the Schrodinger's equation:
 

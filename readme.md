@@ -4,7 +4,8 @@ This repository contains code examples for the paper [Competitive Physics Inform
 
 CPINN uses an adversarial architecture to train Physics Informed Neural Networks (PINNs) against a discriminator in a zero-sum minimax game to reach higher accuracy beyond PINNs' capability.
 
-In addition to the PyTorch optimizers, we use [ExtraGradient](https://github.com/facebookresearch/GAN-optimization-landscape/blob/main/lib/optim/extragradient.py) and [Competitive Gradient Descent](https://github.com/devzhk/cgds-package) optimizers, both avaliable under MIT license.
+In addition to the PyTorch optimizers, we use [ExtraGradient](https://github.com/facebookresearch/GAN-optimization-landscape/blob/main/lib/optim/extragradient.py) and [Competitive Gradient Descent](https://github.com/devzhk/cgds-package) optimizers, both avaliable under MIT license. 
+The Weak Adversarial Networks is obtained from [Weak Adversarial Networks repo](https://github.com/yaohua32/wan), avaliable under MIT license..
 
 We obtain the training and testing data from the original [PINNs](https://github.com/maziarraissi/PINNs) directory, avaliable under MIT license.
 

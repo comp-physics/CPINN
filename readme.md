@@ -1,4 +1,4 @@
-## CPINN
+## CPINNs: Competitive Physics Informed Networks
 
 <p align="center"> 
 <a href="https://lbesson.mit-license.org/">

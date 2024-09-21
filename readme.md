@@ -9,7 +9,7 @@
 </a>
 </p>
 
-This repository contains reproducers for the ICLR 2023 paper [Competitive Physics Informed Neural Networks](https://arxiv.org/abs/2204.11144).
+This repository contains reproducers for the ICLR 2023 paper [Competitive Physics Informed Neural Networks](https://arxiv.org/abs/2204.11144) by Zeng, Kothari, Bryngelson, and Schäfer.
 
 The paper can be cited as
 ```bibtex
@@ -17,7 +17,6 @@ The paper can be cited as
   author = {Zeng, Q. and Kothari, Y. and Bryngelson, S. H. and Sch{\"a}fer, F.},
   title = {Competitive physics informed networks},
   booktitle = {International Conference on Learning Representations (ICLR)},
-  file = {zeng-ICLR-23.pdf},
   note = {arXiv:2204.11144},
   address = {Kigali, Rwanda},
   year = {2023},
